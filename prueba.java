@@ -4,6 +4,7 @@ public class prueba{
 		
 		System.out.println("21 años, 2001");
 		System.out.println("Fuente Garcia");
+		System.out.println("Pizza");
 
 	}
 
